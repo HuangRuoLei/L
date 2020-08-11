@@ -8,12 +8,12 @@
     },
     "files": [
         "README.md",
-        "main.ts"
-
+        "main.ts",
+        "_locales/chine/strings.json"
     ],
     "testFiles": [
-        "test.ts",
-        "_locales/chine/strings.json"
+        "test.ts"
+        
     ],
     "public": true,
     "supportedTargets": [
