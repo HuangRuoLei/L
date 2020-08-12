@@ -1,25 +1,21 @@
 {
-    "name": "TuoYuBit",
-    "version": "1.0.0",
-    "description": "Extension for TuoYu:bit V1.0.0",
+    "name": "TuoYuMicroBit",
+    "version": "1.0.1",
+    "description": "This is TuoYu Micro_Bit V1.0.1",
     "license": "MIT",
     "dependencies": {
         "core": "*",
+        "radio": "*",
         "neopixel": "github:lzty634158/pxt-neopixel",
         "Mbit_IR":  "github:lzty634158/yahboom_mbit_IR"
     },
     "files": [
         "README.md",
         "main.ts",
-        "_locales/zh-cn/strings.json"
+        "_locales/zh/string.json"
     ],
     "testFiles": [
         "test.ts"
-        
     ],
-    "public": true,
-    "supportedTargets": [
-        "microbit"
-    ],
-    "preferredEditor": "tsprj"
+    "public": true
 }

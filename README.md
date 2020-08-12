@@ -1,6 +1,6 @@
-# TuoYu:bit
+# mbit
 
-Extension for TuoYu:bit V1.0
+This is TuoYu Micro_Bit V1.0.0
 
 ## License
 
